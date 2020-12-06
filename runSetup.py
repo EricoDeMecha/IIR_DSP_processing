@@ -31,8 +31,10 @@ def animate(i, xs, ys):
 
     # Draw x and y lists
     ax.clear()
-    ax.plot(xs, ys)
-
+    ax.plot(xs, ys, 'b')
+    # apply filter
+    # 1. Generating sos coefficients
+    sos =
     # Format plot
     plt.xticks(rotation=45, ha='right')
     plt.subplots_adjust(bottom=0.30)

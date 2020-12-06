@@ -59,7 +59,7 @@
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Data flow chart}{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\*\shppict{\pict\pngblip\picw682\pich389\picwgoal13639\picscalex67\pichgoal7780\picscaley96
-\bliptag10002{\*\blipuid 00000000000000000000000000002712}
+\bliptag10010{\*\blipuid 0000000000000000000000000000271a}
 89504e470d0a1a0a0000000d49484452000002aa000001850802000000baf546
 430000000373424954080808dbe14fe00000001974455874536f667477617265
 00676e6f6d652d73637265656e73686f74ef03bf3e0000200049444154789cec
@@ -685,7 +685,7 @@ c7fc0340ceb88efa9f58afd7ebf57afd7e3fd651ff13ebf57abd5eafdfef1dff
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Project Setup}{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\*\shppict{\pict\pngblip\picw612\pich518\picwgoal12240\picscalex75\pichgoal10359\picscaley74
-\bliptag10003{\*\blipuid 00000000000000000000000000002713}
+\bliptag10011{\*\blipuid 0000000000000000000000000000271b}
 89504e470d0a1a0a0000000d4948445200000264000002060802000000754f04
 ba0000000373424954080808dbe14fe00000001974455874536f667477617265
 00676e6f6d652d73637265656e73686f74ef03bf3e0000200049444154789cec
@@ -4008,7 +4008,7 @@ c0c0c0c098011f2863002660022660022660c2278140e6386e82800998800998
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs22\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Actual project setup}{\s28\f0\fs22\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\*\shppict{\pict\jpegblip\picw1080\pich1440\picwgoal21600\picscalex43\pichgoal28800\picscaley35
-\bliptag10004{\*\blipuid 00000000000000000000000000002714}
+\bliptag10012{\*\blipuid 0000000000000000000000000000271c}
 ffd8ffe1013c4578696600004d4d002a00000008000601000003000000010438
 0000011000020000000a00000056010100030000000105a00000010f00020000
 0015000000608769000400000001000000750112000300000001000100000000
@@ -13409,7 +13409,7 @@ b001f8335ea8aca5bdbe94ab7739cfe15ea9ab268fffd9}}{\s28\f0\fs32\b\ul\lang1033{\*\l
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs22\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The actual setup uses LDR resistor in place of Digital Solar UV module.  Light intensity is captured by the resistor and data is plotted real time using matplotlib as below.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\*\shppict{\pict\pngblip\picw620\pich445\picwgoal12399\picscalex75\pichgoal8900\picscaley75
-\bliptag10005{\*\blipuid 00000000000000000000000000002715}
+\bliptag10013{\*\blipuid 0000000000000000000000000000271d}
 89504e470d0a1a0a0000000d494844520000026c000001bd0802000000277dbd
 650000000373424954080808dbe14fe00000001974455874536f667477617265
 00676e6f6d652d73637265656e73686f74ef03bf3e0000200049444154789cec
@@ -14885,5 +14885,16 @@ ca0c2e0e51663072b088b4a088e2106506178728330472a8065034b314151515
 959ea283281515151515959efa3f1238a08bea0392240000000049454e44ae42
 6082}}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Jitter in data sampling}{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Jitter is the main cause of misalignment in electrical and optical data streams resulting to bit errors.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs28\i\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Way of detecting jitter}{\s28\f0\fs28\i\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch By using an real time sampling oscilloscope connected across the Digital sensor module, we can measure jitter to the highest bit rate. The oscilloscope is set to plot a time-interval error then by using a fast fourier transform of the timing error plot scaled to 1MHz/div reveals the frequency of the jitter.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Digital Signal Filtering}{\s28\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs22\lang1033{\*\listtag0}\par}}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch By using an IIR digital signal filtering algorithm, we can be able to filter out the  noise from the artificial source of UV light. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs28\i\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch IIR Filter}{\s28\f0\fs28\i\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This is a network of several filter of the same kind, organized such that the output of one filter is the input of the next filter. At every stage the results are refined such that at the end of the pipeline of filters, the results have very minimal noise. This is done real time as the data from the sensors are detected. The same data is used in the filter.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Links Used}{\s28\f0\fs24\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi708\s28\sl480\slmult1\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Topic: Jitter in data sampling, Link: https://www.edn.com/measure-jitter-three-ways/}{\s28\f0\fs24\lang1033{\*\listtag0}\par}}
