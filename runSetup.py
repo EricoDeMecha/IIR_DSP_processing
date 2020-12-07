@@ -51,8 +51,8 @@ def animate(i, xs, ys):
     ax.clear()
     ax.plot(xs, ys, 'b')
     # apply filter
-    filter_ys = IIRFilter.filter(ldr_val)
-    ax.plot(xs, ys, 'r')  # plot the result
+    # filter_ys = IIRFilter.filter(ldr_val)
+    # ax.plot(xs, ys, 'r')  # plot the result
     # Format plot
     plt.xticks(rotation=45, ha='right')
     plt.subplots_adjust(bottom=0.30)
